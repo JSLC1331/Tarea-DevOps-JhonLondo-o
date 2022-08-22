@@ -76,6 +76,6 @@ Se pasa además el cuerpo del json con el que se desea crear el nuevo elemento:
     "is_offer": false
 }
 ```
-No se pasa el id porque lo crea al final de los elementos existentes.
+No se pasa el id porque lo crea al final de los elementos existentes..
 
 **Nota:** en el documento se adjuntan pruebas del funcionamiento de todos los métodos.
