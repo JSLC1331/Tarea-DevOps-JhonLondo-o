@@ -1,9 +1,9 @@
 
 # Jhon Sebastián Londoño Cárdenas.
 
-from email import header
+
 from typing import Union
-from urllib import request, response
+
 from fastapi import FastAPI
 import requests
 from pydantic import BaseModel
